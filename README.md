@@ -75,7 +75,7 @@ A retail organization wanted to monitor how different sales roles are performing
 
 ## 🖼️ Dashboard Preview
 
-[Retail Sales Dashboard](./Snapshot%20of%20sales%20dashboard.png)
+[Retail Sales Dashboard](https://github.com/atulrahul07/Excel-Project-Hub/blob/main/Snapshot%20of%20sales%20dashboard.png)
 
 ---
 
