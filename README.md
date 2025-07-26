@@ -75,27 +75,12 @@ A retail organization wanted to monitor how different sales roles are performing
 
 ## 🖼️ Dashboard Preview
 
-![Retail Sales Dashboard](./Snapshot%20of%20sales%20dashboard.png)
-
----
-
-## 📁 Project File
-
-- `Retail Sales Insights Dashboard.xlsx` – Fully functional Excel file with all visuals and interactive filters.
-
----
-
-## ▶️ How to Use
-
-1. Open the Excel file in Microsoft Excel.  
-2. Use slicers to filter data by **Role** and **City**.  
-3. Analyze patterns in the pivot table, bar chart, and pie chart.  
-4. Use the dashboard to guide strategic decisions around staffing and regional focus.
+[Retail Sales Dashboard](./Snapshot%20of%20sales%20dashboard.png)
 
 ---
 
 ## 📬 Contact
 
-For questions or feedback, feel free to connect:  
-📧 yourname@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+For questions,feel free to connect:  
+📧 atulrahul704@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/atul-kumar-pal/)
